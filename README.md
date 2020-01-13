@@ -59,7 +59,7 @@ Docker also has some extra features to store images in 3rd party services.
 
 ## Why `dockerlite`?
 
-`dockerlite` initially targetted the following goals:
+`dockerlite` initially targeted the following goals:
 - demonstrate that the core features provided by Docker can be easily
   reimplemented with simple, easy-to-audit, shell scripts;
 - provide an alternative implementation to Docker, with a strong emphasis
